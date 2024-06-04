@@ -5,4 +5,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## Result
-![Result](https://github.com/konstantinsteinmiller/react-admin/tree/master/images/admin.png)
+![Result](https://github.com/konstantinsteinmiller/react-admin/blob/master/images/admin.png)
